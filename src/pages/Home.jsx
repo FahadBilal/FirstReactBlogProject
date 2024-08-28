@@ -49,7 +49,7 @@ function Home() {
         <Container>
           <div className={`bg-[url('/images/IMG_0709.JPG')] bg-cover bg-no-repeat bg-center min-h-screen bg-opacity-80 rounded-[20%] flex justify-center  animated-bg border-blue-600 border-2 shadow-blue-600 shadow-2xl` }>
           <h1 className="text-[80px] font-bold ">
-                Login to read the value of 69 Friends's
+                Login to read the value of 69 Friend's
               </h1>
           </div>
               
